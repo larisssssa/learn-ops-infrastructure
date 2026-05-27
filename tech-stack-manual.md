@@ -1,6 +1,12 @@
 # Tech Stack Manual
 
 ## 1. System Overview
+The Learning Platform is an education management system, that allows instructors to track student progress, create courses, manage cohorts, and facilitate collaborative learning through integrated GitHub and Slack functionality.
+Backend: Django REST API
+Frontend: React
+
+### The Learning Platform (Nav)
+- Students: Instructor can view all students, filtered by cohort. Students are organized based on what exercise they are currently working on. 
 
 ---
 
