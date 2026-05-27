@@ -27,9 +27,11 @@ Frontend: React
 
 ## 2. Services
 
-| Service Name | Tech Stack (including version) | Purpose |
-| ------------ | ------------------------------ | ------- |
-|              |                                |         |
+| Service Name | Tech Stack (including version)   | Purpose |
+| ------------ | -------------------------------- | ------- |
+| database     | postgres                         |         |
+| api          | Python 3.11, Django REST API 5.2 |         |
+| client       | React 16                         |         |
 
 ---
 
