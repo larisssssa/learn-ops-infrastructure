@@ -49,17 +49,17 @@
 
 ## 8. Views vs. viewsets
 
-| Type    | Example class | File path |
-| ------- | ------------- | --------- |
-| View    |               |           |
-| ViewSet |               |           |
+| Type    | Example class | File path                                       |
+| ------- | ------------- | ----------------------------------------------- |
+| View    | GithubLogin   | learn-ops-api/LearningAPI/views/github_login.py |
+| ViewSet | BookViewSet   | learn-ops-api/LearningAPI/views/book_view.py    |
 
 ## 9. Serializers paired with their models
 
-| Serializer | Model | Link |
-| ---------- | ----- | ---- |
-|            |       |      |
-|            |       |      |
+| Serializer        | Model  | Link |
+| ----------------- | ------ | ---- |
+| user_serializer   | User   |      |
+| cohort_serializer | Cohort |      |
 
 ## 10. What replaces the Templates and why?
 
