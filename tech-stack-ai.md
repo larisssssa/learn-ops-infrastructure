@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tech Stack (AI)
 
 ## 1. Run Questions
@@ -136,3 +137,6 @@ When you run `make up`, Docker enforces this order automatically based on `depen
 | | | |
 
 ## 3. System Overview
+=======
+AI overview
+>>>>>>> upstream/main
